@@ -1,5 +1,5 @@
 id_skill,name_skill
-1,UI/UX
+1,UI/UX Designer
 2,Design and editing
 3,Sales and marketing
 4,Software development
@@ -7,3 +7,13 @@ id_skill,name_skill
 6,Python
 7,Bug tracking
 8,Software development
+9,UI/UX Designer
+10,Marketing Manager
+11,Software Engineer
+12,QA Engineer
+13,Product Manager
+14,System Analyst
+15,Front-end Developer
+16,Data Scientist
+17,HR Specialist
+18,Backend Developer
